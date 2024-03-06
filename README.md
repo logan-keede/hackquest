@@ -1,16 +1,29 @@
 # WNS Triange Hackquest Solution
 
-[WNS](https://datahack.analyticsvidhya.com/contest/wns-triange-hackquest/#About)
+[WNS Triange Hackquest](https://datahack.analyticsvidhya.com/contest/wns-triange-hackquest/#About) 
+
+🚀 Achieved Air Rank 81
 
 ## Description
 
 This repository contains my solution for the WNS Triange Hackquest, an online analytics hackathon organized by Vidhya Analytics. The solution addresses the provided challenges, showcasing analytical acumen, problem-solving skills, and insights derived from real-life business scenarios.
 
-## Table of Contents
+## Key Insights
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
+- **Data Augmentation:** Implemented advanced data augmentation techniques to enhance model robustness and improve performance.
+
+- **Pretrained Networks:** Leveraged pretrained neural networks to boost model accuracy and efficiency, showcasing the power of transfer learning in analytics scenarios.
+
+- **Loss Functions:** Explored and applied various loss functions tailored to the specific challenges of the provided datasets, optimizing model training for better results.
+
+- **Handling Imbalanced Datasets:** Explored strategies to effectively handle imbalanced datasets, ensuring fair and accurate model predictions in scenarios with disparate class distributions.
+
+## Highlights
+
+- **Data Analysis:** Explored provided datasets.
+- **Modeling:** Developed analytical models.
+- **Results:** Achieved insights and solutions.
+
 
 
 ## Installation
