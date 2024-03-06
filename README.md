@@ -8,7 +8,7 @@ This repository contains my solution for the WNS Triange Hackquest, an online an
 
 ## Table of Contents
 
-- [Installation]
+- [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
 
@@ -22,16 +22,17 @@ conda create --name tf_gpu tensorflow-gpu
 pip install pandas
 pip install -U efficientnet
 ```
-or just load from checkpoint in below link
+or just load from [checkpoint](https://drive.google.com/file/d/1k2MBNIy77yM59ENz57qlNx2Qyx4npKrD/view?usp=sharing)
 
 ## Usage
 run pretrained.py on the dataset
 run submit.py if you are using checkpoint
-I tried to upload the model for diret usage but github wont allow it so here is the drive link:- 
+
 
 ## Features
 Use of EfficientB1 pretrained model for prediction of edited insurance claim images.
-It is made for WNS but can be used in similar convolution binary classification problem
+It is made for WNS but can be used in similar convolution binary classification problem.
+test.py contains code for testing.
 
 
 
